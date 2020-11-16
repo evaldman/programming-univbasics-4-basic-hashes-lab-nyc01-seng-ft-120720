@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  {:name => "grace Hopper"}
+  {:name => "Grace Hopper"}
 end
 
 
